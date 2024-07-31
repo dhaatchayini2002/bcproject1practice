@@ -1,0 +1,15 @@
+.connectwallet{
+    text-align: center;
+    align-items: center;
+    margin-top: 50%;
+    
+}
+button{
+    width: 300px;
+    height: 100px;
+    cursor: pointer;
+    background-color: rgb(75, 164, 75);
+}
+.btntext{
+  font-size: 24px;
+}
